@@ -18,4 +18,4 @@
 - challs
   - apkey
   - cyberpsichosis
-  - [pentest notes](https://github.com/b4sh0xf/writeups/tree/main/hack%20the%20box) (EN-US)
+  - [pentest notes](https://github.com/b4sh0xf/writeups/tree/main/hack%20the%20box/pentest%20notes.md) (EN-US)
