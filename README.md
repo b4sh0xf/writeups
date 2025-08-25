@@ -3,10 +3,8 @@
 - this machines was write-uped when they are valid to championship ranking, now, they're resting
 
 # hacking club 
-- heartmatch
-- dynamite
 - [wcorp](https://github.com/b4sh0xf/writeups/blob/main/hacking%20club/wcorp.md) (PT-BR)
-- retro
+- byteworks
 
 # hack the box
 - machines
