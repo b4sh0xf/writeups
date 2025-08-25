@@ -4,7 +4,7 @@
 
 # hacking club 
 - [wcorp](https://github.com/b4sh0xf/writeups/blob/main/hacking%20club/wcorp.md) (PT-BR)
-- byteworks
+- [byteworks](https://github.com/b4sh0xf/writeups/blob/main/hacking%20club/byteworks.md) (PT-BR)
 
 # hack the box
 - machines
